@@ -1,4 +1,4 @@
-# donation_app
+# Mental Health App
 
 A new Flutter project.
 
